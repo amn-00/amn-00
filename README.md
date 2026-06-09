@@ -27,10 +27,6 @@
 | 💬 NLP Sentiment Analyser | 90% accuracy · sub-2ms API · Docker | [Live Demo](https://sentiment-analysis-nlp-rrme.onrender.com/) |
 | ⛓ Blockchain Crowdfunding | Solidity · React · MetaMask · Sepolia | [Live Demo](https://crowdfunding-lyart-rho.vercel.app/) |
 
-## 📊 GitHub Stats
-![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amn-00&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amn-00&layout=compact&theme=dark)
-
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-82b8382b1/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanchaudharyy01@gmail.com)
