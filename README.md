@@ -1,74 +1,71 @@
-# Hi there, I'm Aman 👋
+# Hi, I'm Aman Chaudhary 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Cybersecurity+Enthusiast;Full-Stack+Developer;Open+Source+Learner" alt="Typing SVG" />
-</p>
+🎓 Final-year M.Tech AI & Robotics @ Gautam Buddha University (2026)
+💼 Seeking full-time AI/ML Engineer / Software Developer roles
+📍 Greater Noida, India
 
----
+## 🚀 What I Build
+- End-to-end ML pipelines — from training to production deployment
+- REST APIs with Flask, containerised with Docker
+- Full-stack apps with React, Web3.js, and blockchain smart contracts
+- Research: Hybrid ACO-GA optimization — submitted to NetCrypt 2026, JNU
 
-## 🚀 About Me
-
-🎓 Integrated B.Tech + M.Tech Computer Science Student  
-🤖 Passionate about Artificial Intelligence, Machine Learning & IoT  
-🔐 Interested in Cybersecurity, OSINT & Bug Bounties  
-💡 Love building real-world tech projects and learning new technologies  
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
 ## 📌 Featured Projects
-
-### 🔹 Blockchain Crowdfunding Platform
-A decentralized crowdfunding platform using blockchain technology with token/NFT-based rewards.
-
-### 🔹 AI & ML Projects
-Worked on machine learning models, predictive analytics, and intelligent systems.
-
-### 🔹 Cybersecurity & OSINT
-Performed vulnerability testing, bug bounty practice, and CTF challenges.
-
----
+| Project | Description | Live |
+|---------|------------|------|
+| 🧠 Hybrid ACO-GA Optimization | Novel research — NetCrypt 2026, JNU | [GitHub](https://github.com/amn-00/Hybrid-ACO-GA-smart-contract) |
+| 🏠 Real Estate Price Predictor | XGBoost · R² 0.82 · 32.8% RMSE reduction | [Live Demo](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app/) |
+| 💬 NLP Sentiment Analyser | 90% accuracy · sub-2ms API · Docker | [Live Demo](https://sentiment-analysis-nlp-rrme.onrender.com/) |
+| ⛓ Blockchain Crowdfunding | Solidity · React · MetaMask · Sepolia | [Live Demo](https://crowdfunding-lyart-rho.vercel.app/) |
 
 ## 📊 GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amn-00&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amn-00&layout=compact&theme=dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
-</p>
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-82b8382b1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanchaudharyy01@gmail.com)# Hi, I'm Aman Chaudhary 👋
 
----
+🎓 Final-year M.Tech AI & Robotics @ Gautam Buddha University (2026)
+💼 Seeking full-time AI/ML Engineer / Software Developer roles
+📍 Greater Noida, India
 
-## 🔥 GitHub Streak
+## 🚀 What I Build
+- End-to-end ML pipelines — from training to production deployment
+- REST APIs with Flask, containerised with Docker
+- Full-stack apps with React, Web3.js, and blockchain smart contracts
+- Research: Hybrid ACO-GA optimization — submitted to NetCrypt 2026, JNU
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+## 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat&logo=xgboost&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
----
+## 📌 Featured Projects
+| Project | Description | Live |
+|---------|------------|------|
+| 🧠 Hybrid ACO-GA Optimization | Novel research — NetCrypt 2026, JNU | [GitHub](https://github.com/amn-00/Hybrid-ACO-GA-smart-contract) |
+| 🏠 Real Estate Price Predictor | XGBoost · R² 0.82 · 32.8% RMSE reduction | [Live Demo](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app/) |
+| 💬 NLP Sentiment Analyser | 90% accuracy · sub-2ms API · Docker | [Live Demo](https://sentiment-analysis-nlp-rrme.onrender.com/) |
+| ⛓ Blockchain Crowdfunding | Solidity · React · MetaMask · Sepolia | [Live Demo](https://crowdfunding-lyart-rho.vercel.app/) |
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
+![Aman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amn-00&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amn-00&layout=compact&theme=dark)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aman-chaudhary-82b8382b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/amn-00)
-
----
-
-⭐ *“Always building, always learning.”*
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-82b8382b1/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanchaudharyy01@gmail.com)
