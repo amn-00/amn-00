@@ -28,5 +28,5 @@
 | ⛓ Blockchain Crowdfunding | Solidity · React · MetaMask · Sepolia | [Live Demo](https://crowdfunding-lyart-rho.vercel.app/) |
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-82b8382b1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-chaudhary-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:amanchaudharyy01@gmail.com)
