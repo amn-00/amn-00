@@ -1,6 +1,6 @@
 # Hi, I'm Aman Chaudhary 👋
 
-🎓 Final-year M.Tech AI & Robotics @ Gautam Buddha University (2026)
+🎓 M.Tech graduate in CS (AI & Robotics) @ Gautam Buddha University (2026)
 💼 Seeking full-time AI/ML Engineer / Software Developer roles
 📍 Greater Noida, India
 
