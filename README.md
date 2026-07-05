@@ -8,7 +8,7 @@
 - End-to-end ML pipelines — from training to production deployment
 - REST APIs with Flask, containerised with Docker
 - Full-stack apps with React, Web3.js, and blockchain smart contracts
-- Research: Hybrid ACO-GA optimization — submitted to NetCrypt 2026, JNU
+- Research: Hybrid ACO-GA optimization — Accepted at NetCrypt 2026, JNU
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -23,8 +23,9 @@
 | Project | Description | Live |
 |---------|------------|------|
 | 🧠 Hybrid ACO-GA Optimization | Novel research — NetCrypt 2026, JNU | [GitHub](https://github.com/amn-00/Hybrid-ACO-GA-smart-contract) |
+| ⚡ DevPulse | Next.js · Express · PostgreSQL · Redis · Groq LLaMA | [Live Demo](https://devpulse-kappa-rouge.vercel.app/login) |
 | 🏠 Real Estate Price Predictor | XGBoost · R² 0.82 · 32.8% RMSE reduction | [Live Demo](https://real-estate-price-predictor-zbeesxpajdfgcuy6bgemu2.streamlit.app/) |
-| 💬 NLP Sentiment Analyser | 90% accuracy · sub-2ms API · Docker | [Live Demo](https://sentiment-analysis-nlp-rrme.onrender.com/) |
+| 💬 NLP Sentiment Analyser | 93.3% accuracy · sub-2ms API · Docker | [Live Demo](https://sentiment-analysis-nlp-rrme.onrender.com/) |
 | ⛓ Blockchain Crowdfunding | Solidity · React · MetaMask · Sepolia | [Live Demo](https://crowdfunding-lyart-rho.vercel.app/) |
 
 ## 📫 Connect
