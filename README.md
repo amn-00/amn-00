@@ -46,8 +46,7 @@
 
 `FastAPI` `SQLite` `ChromaDB` `FastEmbed` `Groq` `pytest` `GitHub Actions`
 
-<a href="https://lethe-agent-memory.onrender.com"><img src="https://img.shields.io/badge/%E2%96%B6_Live_demo-1F7A8C?style=for-the-badge" alt="Live demo"/></a>
-<a href="https://github.com/amn-00/lethe-agent-memory"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+[**▶ Live demo →**](https://lethe-agent-memory.onrender.com) &nbsp;·&nbsp; [**Code →**](https://github.com/amn-00/lethe-agent-memory)
 
 </td>
 </tr>
